@@ -26,6 +26,6 @@ Feel free to explore and kick the tires on these projects!
 
 ## 📫 Let's Connect
 
-Ready to collaborate or just want to chat about the beautiful game of soccer or web development? You can reach me at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/haroldzcaicedo/).
+Ready to collaborate or just want to chat about the beautiful game of soccer or web development? You can <!-- reach me at [your.email@example.com](mailto:your.email@example.com) or --> connect with me on [LinkedIn](https://www.linkedin.com/in/haroldzcaicedo/).
 
 Keep coding, stay innovative, and score those digital goals! ⚽🏆
