@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-profile-h-studio.png" alt="Your Name" width="200" height="200">
+  <img src="profile-webstudio-xpring.png" alt="Your Name" width="200" height="200">
 </p>
 # 👋 Hello, I'm Harold - Full Stack Soccer Maestro ⚽
 
