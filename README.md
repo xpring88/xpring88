@@ -2,7 +2,8 @@
   <img src="profile-webstudio-xpring.png" alt="Your Name" width="200" height="200">
 </p>
 
-# 👋 Hello, I'm Harold - Full Stack Soccer Maestro ⚽
+# 🔨 Hey, I’m Harold - Backend Maestro & System Builder ⚙️
+
 
 Welcome to my coding turf! I'm passionate about crafting seamless digital experiences through the perfect blend of chic design and backend precision. Every click is a play, and innovation is my game.
 
