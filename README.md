@@ -5,7 +5,7 @@
 # 🔨 Hey, I’m Harold - Backend Maestro & System Builder ⚙️
 
 
-Welcome to my coding turf! I'm passionate about crafting seamless digital experiences through the perfect blend of chic design and backend precision. Every click is a play, and innovation is my game.
+Welcome to my coding space! My passion lies in creating flawless digital experiences by blending elegant design with precise backend development. Every interaction is a chance to innovate, and that’s my primary focus.
 
 ## 💼 Experience
 
